@@ -2,7 +2,7 @@
 <h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
 
 <br>
-<img align ="right" alt="GirlWhoCodes"  width="400" src="https://github.com/VidhiBhatt01/VidhiBhatt01/blob/main/lofi.png">
+<img align ="right" alt="GirlWhoCodes"  width="400" src="https://github.com/Pakhi-7831/Pakhi-7831/blob/main/lofi.png">
 
 <p><b>I am Pakhi Awasthi, a junior year student at IIT(BHU), Varanasi. I am a quick learner who loves to connect with people, learn new things, take up interesting challenges and solve problems inorder to make life easier and make this world a better place to live!</p>
 </b>
