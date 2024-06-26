@@ -1,5 +1,5 @@
 <img align = "center" alt="Pakhi" src="https://github.com/Pakhi-7831/Pakhi-7831/blob/main/title_1.png">
-<h2 align="center">I'm Pakhi Awasthi, a pre-final yearite at IIT(BHU), Varanasi. As a quick learner, I'm passionate about connecting with people, exploring new knowledge, taking on intriguing challenges, and solving problems to make life easier and the world a better place to live!</h2>
+<h3 align="center">I'm Pakhi Awasthi, a pre-final yearite at IIT(BHU), Varanasi. As a quick learner, I'm passionate about connecting with people, exploring new knowledge, taking on intriguing challenges, and solving problems to make life easier and the world a better place to live!</h3>
 
 
 
