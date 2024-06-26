@@ -1,5 +1,5 @@
-<h1 align="center">HELLO WORLD! I'm Pakhi 👋</h1>
-<h3 align="center">A girl exploring the wide domain of COMPUTER SCIENCE</h3>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2Fm78eZlH9XEx1JYZfuwE02t%2Ftitle%3Fnode-id%3D0-1%26t%3DJ1pOyUdBqniyLdDd-1" allowfullscreen></iframe>
 
 <br>
 <img align ="right" alt="GirlWhoCodes"  width="400" src="https://github.com/Pakhi-7831/Pakhi-7831/blob/main/lofi.png">
