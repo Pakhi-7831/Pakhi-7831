@@ -1,54 +1,29 @@
-<img align="center" src="https://github.com/Pakhi-7831/Pakhi-7831/blob/main/title.png" alt="Pakhi Awasthi" />
+<img src="https://github.com/Pakhi-7831/Pakhi-7831/blob/main/title.png" alt="Pakhi Awasthi" />
 
-<h2 align="center">Hi 👋 I'm Pakhi Awasthi</h2>
-
-<h3 align="center">Final Year Student at IIT (BHU), Varanasi</h3>
-
-<p align="center">
-A curious learner passionate about solving meaningful problems, exploring new technologies, and building solutions that make life easier and the world a little better 🌍
-</p>
-
----
+# Hi, I'm Pakhi Awasthi
 
 ## 🚀 About Me
 
 - 🎓 Final year student at **IIT (BHU), Varanasi**
-- 🧠 Passionate about **problem solving and learning new technologies**
-- 🔬 Interested in **software development, AI, and computational research**
-- 🌱 Always exploring **new ideas, technologies, and challenges**
-- 🤝 Love collaborating with people and working in teams
+- 🧠 Interested in **software development and problem solving**
+- 🔬 Background in **computational chemistry and research**
+- 🌱 Always exploring **new technologies and ideas**
+- 🤝 Enjoy collaborating and working in teams
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠 Tech Stack
 
-<p align="center">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60"/>
-
-<br>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="60"/>
-
-<br>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="60"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="60"/>
-
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-
-
-
-
----
-
-⭐ *Always excited to learn, collaborate, and build something meaningful!*
