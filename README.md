@@ -1,12 +1,54 @@
-<img align = "center" alt="Pakhi" src="https://github.com/Pakhi-7831/Pakhi-7831/blob/main/title.png">
-<h3 align="center">I'm Pakhi Awasthi, a final yearite at IIT(BHU), Varanasi. As a quick learner, I'm passionate about connecting with people, exploring new knowledge, taking on intriguing challenges, and solving problems to make life easier and the world a better place to live</h3>
+<img align="center" src="https://github.com/Pakhi-7831/Pakhi-7831/blob/main/title.png" alt="Pakhi Awasthi" />
 
+<h2 align="center">Hi 👋 I'm Pakhi Awasthi</h2>
 
+<h3 align="center">Final Year Student at IIT (BHU), Varanasi</h3>
+
+<p align="center">
+A curious learner passionate about solving meaningful problems, exploring new technologies, and building solutions that make life easier and the world a little better 🌍
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Final year student at **IIT (BHU), Varanasi**
+- 🧠 Passionate about **problem solving and learning new technologies**
+- 🔬 Interested in **software development, AI, and computational research**
+- 🌱 Always exploring **new ideas, technologies, and challenges**
+- 🤝 Love collaborating with people and working in teams
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60"/>
 
 <br>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="60"/>
+
 <br>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="60"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="60"/>
 
-## Technologies worked with
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="c" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" style="padding : 5px ; "/> </a>  </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://developer.android.com/studio"> <img src="https://github.com/devicons/devicon/blob/develop/icons/androidstudio/androidstudio-original-wordmark.svg" alt ="android studio" width ="70" height="70" style="padding : 5px ; "/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/develop/icons/bootstrap/bootstrap-original-wordmark.svg" alt="javascript" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/develop/icons/jupyter/jupyter-original-wordmark.svg" alt="javascript" width="70" height="70" style="padding : 5px ; "/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/develop/icons/numpy/numpy-original-wordmark.svg" alt="javascript" width="70" height="70" style="padding : 5px ; "/> </a> </p>
-<br><br>
+</p>
+
+---
+
+
+
+
+---
+
+⭐ *Always excited to learn, collaborate, and build something meaningful!*
